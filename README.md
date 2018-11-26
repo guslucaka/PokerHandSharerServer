@@ -1,0 +1,2 @@
+# PokerHandSharerServer
+Server for PokerHandSharer
